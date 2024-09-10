@@ -1,4 +1,7 @@
 # mlWiz
+
+<img src = "mlwiz.png></img>
+
 mlWiz is a cutting-edge AutoML web application designed to empower users, from beginners to experts, to build machine learning models effortlessly on their own datasets. It’s a plug-and-play solution that simplifies the complexities of ML model development, enabling anyone to harness the power of machine learning without extensive coding or data science expertise. With mlWiz, users can:
 
 **Seamlessly Upload Data:** Just drag and drop your dataset into mlWiz. The app intelligently recognizes data formats, identifies the problem type (classification or regression), and prepares the data for modeling.
